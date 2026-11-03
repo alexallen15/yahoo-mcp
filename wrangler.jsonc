@@ -15,14 +15,14 @@
   "kv_namespaces": [
     {
       "binding": "OAUTH_KV",
-      "id": "08b3f3e2460d4f92a42b283d2617752e"
+      "id": "3fb4c6a307344d5a8d9deb2a45151830"
     }
   ],
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "yahoo_mcp",
-      "database_id": "28a6a2f4-a4da-472d-9913-4d17b6089f71",
+      "database_id": "7224303c-89c4-4c8e-a5a4-592970b0066b",
       "migrations_dir": "migrations"
     }
   ],
